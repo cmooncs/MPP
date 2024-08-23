@@ -1,2 +1,2 @@
 # MPP
-Repository of resources on  MPP based on single and Multimodality representation techniques
+Repository of resources on  Molecular Property Prediction (MPP) based on single and Multimodality representation techniques
