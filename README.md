@@ -1,7 +1,7 @@
 # MPP
 Repository of resources on  Molecular Property Prediction ***(MPP)***.\
 This project is associated with the survey paper ***"Advancements in Molecular Property Prediction: A Survey of Single and Multimodal Approaches"***
-## Summary of Datasets in MPP
+## Summary of datasets in MPP
 |**Property**| **Dataset**       | **Description** |**Reference**|
 | -------|------------| ---------------------- |---------------------- |
 | Solubility | [ESOL](https://moleculenet.org/datasets-1})| Contains chemical structures along with their corresponding experimentally determined solubility values in water|[Paper](https://academic.oup.com/bib/article/23/1/bbab367/6366324)|
@@ -27,14 +27,14 @@ This project is associated with the survey paper ***"Advancements in Molecular P
 | || |
 | || |
 
-## SMILES based methods
+## SMILES-based methods
 |**Year**| **Dataset**    |**Code/Server**   |**Reference**|
 | -------|------------| ---------------------- |------|
 | || ||
 | || ||
 | || ||
 
-## GNN based methods
+## GNN-based methods
 |**Year**| **Dataset**   |**Code/Server**   | **Reference**|
 | -------|------------|--------- |------------| 
 | || || 
@@ -42,7 +42,7 @@ This project is associated with the survey paper ***"Advancements in Molecular P
 | || || 
 | || || 
 
-## Multimodality based methods
+## Multimodality-based methods
 |**Year**| **Dataset** |I/P Modality   |**Code/Server**   | **Reference**|
 | -------|------------|------|------------| ---------------------- |
 | || || |
