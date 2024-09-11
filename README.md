@@ -9,7 +9,7 @@ This project is associated with the survey paper ***"Advancements in Molecular P
 | || ||
 | || ||
 
-## Descriptor calculation packages/servers
+## Descriptor calculation packages/servers 📦 | 🖥️ 
 |**Package/Server**| **Descriptors**       | **Type** |**Acess Link**|
 | -------|------------| ---------------------- |---------------------- |
 |Mordred |1826 descriptors|2D and 3D |[Link](https://pypi.org/project/mordred)|
@@ -20,7 +20,7 @@ This project is associated with the survey paper ***"Advancements in Molecular P
 | || ||
 | || ||
 
-## Expert-crafted feature based approaches
+## Expert-crafted feature based approaches  🔧
 |**Year**| **Dataset**       | **Reference**|
 | -------|------------| ---------------------- |
 | || |
