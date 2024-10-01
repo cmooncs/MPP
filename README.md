@@ -25,21 +25,31 @@ Side-effects | SIDER (https://moleculenet.org/datasets-1}) |  provides comprehen
 
 ## Descriptor calculation packages/servers 📦 | 🖥️ 
 |**Package/Server**| **Descriptors** |**Count**  | **Type** |**Acess Link**|
-| -------|------------| ---------------------- |---------------------- |
+| -------|------------| ---------------------- |---------------------- |-------------------|
 |Mordred |1826 descriptors|643|2D and 3D |[Link](https://pypi.org/project/mordred)|
 | Chemdes|3679 descriptors, 59 fingerprints|264| 1D, 2D and 3D|[Link](www.scbdd.com/chemdes)|
 | PaDELpy|1875 descriptors, 12 fingerprints|2258| 1444 1D, 2D, and 431 3D|[Link](http://www.yapcwsoft.com/dd/padeldescriptor)|
 |  CDK\_pywrapper|- |- |1D, 2D, 3D descriptors and fingerprints|[Link](https://pypi.org/project/CDK-pywrapper/)|
-| pybel |-| 408 |408|1D, 2D descriptors |[Link] (https://pypi.org/project/pybel/)|
-| PyBioMed|775 descriptors, 19 fingerprints| 112 |1D, 2D, 3D descriptors |[Link] (http://projects.scbdd.com/pybiomed.html)|
-|Rcpi|>300 molecular descriptors and 10 fingerprints|130 |1D,2D Descriptors |[Link] (http://bioconductor.org/packages/release/bioc/html/Rcpi.html)|
-|Biotriangle|540 descriptors and 7 fingerprints | 47| 1D, 2D descriptors| [Linl] (http://biotriangle.scbdd.com)|
+| pybel |-| 408 |408|1D, 2D descriptors |[Link](https://pypi.org/project/pybel/)|
+| PyBioMed|775 descriptors, 19 fingerprints| 112 |1D, 2D, 3D descriptors |[Link](http://projects.scbdd.com/pybiomed.html)|
+|Rcpi|>300 molecular descriptors and 10 fingerprints|130 |1D,2D Descriptors |[Link](http://bioconductor.org/packages/release/bioc/html/Rcpi.html)|
+|Biotriangle|540 descriptors and 7 fingerprints | 47| 1D, 2D descriptors| [Linl](http://biotriangle.scbdd.com)|
 ## Expert-crafted feature based approaches  🔧
-|**Year**| **Dataset**       | **Reference**|
-| -------|------------| ---------------------- |
-| || |
-| || |
-| || |
+|**Year**| **Dataset** | **Task** | **Input Representation** | **Method** |**Evaluation criteria**|**Reference**|
+| -------|------------| ---------------------- |--------|---------|----------|-------------|
+|2017 |AMES | Classification|  Descriptors, ECFP-14 | Naive Bayes | 5-Fold CV |[Link](https://pubmed.ncbi.nlm.nih.gov/28232239/) |
+|2018| eChemPortal | Classification| Descriptors,PubChem, MACCS,Substructure, CDK,Estate | SVM,KNN,Naive Bayes,DT,RF,ANN | 5-Fold CV |[Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6062245/) |
+|2018 | BBBP | Classification | Descriptors,PubChem, KlekotaRoth,CDK-Extended, 2D-Atom Path,FP4 | SVM | Train-Test Split |[Link](https://pubmed.ncbi.nlm.nih.gov/29564576/) |
+|2018|BBBP|Classification | Descriptors,Fingerprints |LR,RF,KNN,SVM,MLP |10-Fold CV|[Link](https://pubmed.ncbi.nlm.nih.gov/30110511/) |
+|2018 | ADME| Classification, Regression|ECPF-3 |DNN, SVM | 10-Fold CV |[Link](https://pubmed.ncbi.nlm.nih.gov/30586300/)  |
+|2019 |𝐿𝑜𝑔𝐷7.4 |Classification| Multiple Descriptors |Consensus of RF, XG-boost,SVM,GB| Random Split| [Link](https://pubmed.ncbi.nlm.nih.gov/31869226/) |
+|2021 |OECD-TG471| Classification |Fingerprints| Balancing Techniques,GBT,RF, SVM, MLP,KNN| Random Split| [Link](https://www.sciencedirect.com/science/article/pii/S2468111321000268) |
+|2022 |BBBP |Classification| Mol2Vec |1D-CNN, MLP |10-Fold CV| [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/minf.202100315)  |
+|2022|HIV,BACE,QM7,Lipo, BBBP,ESOL etc.|Classification,Regression| Descriptors,Fingerprints |RF |Random Split| [Link](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202200255) |
+
+
+
+
 
 ## SMILES-based methods
 |**Year**| **Dataset**    |**Code/Server**   |**Reference**|
