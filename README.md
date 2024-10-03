@@ -55,8 +55,20 @@ This project is associated with the survey paper ***"Advancements in Molecular P
 |**Year**| **Dataset**    |**Code/Server**   |**Reference**|
 | -------|------| ---------------------- |------|
 |2019|BBBP, BACE, Ames, ESOL|[jrwnter/cddd](https://github.com/jrwnter/cddd) |[Paper](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04175j)|
-| || ||
-| || ||
+|2019|PubChem|-|[Paper](https://arxiv.org/pdf/2404.03969)|
+|2020|Lipo, FreeSolv, HIV, BBBP|- |[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00430-x)|
+|2020|Lipo, BACE, FreeSolv, BP, HIV, AMES, BBBP, ToxCast|[bigchem/transformer-cnn](https://github.com/bigchem/transformer-cnn)|[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00423-w)|
+|2020|HIV, BACE, BBBP, Tox21, ClinTox, SIDER|-|[Paper](https://arxiv.org/pdf/1712.02034)|
+||| ||
+||| ||
+||| ||
+||| ||
+||| ||
+||| ||
+||| ||
+||| ||
+||| ||
+
 
 ## GNN-based methods
 |**Year**| **Dataset**   |**Code/Server**   | **Reference**|
