@@ -61,7 +61,7 @@ This project is associated with the survey paper ***"Advancements in Molecular P
 |2020|HIV, BACE, BBBP, Tox21, ClinTox, SIDER|-|[Paper](https://arxiv.org/pdf/1712.02034)|
 |2021|Tox21, HIV, BBBPS, SIDER, CLINTOX| [GitHub](https://github.com/arwhirang/sa-mtl)|[Paper](https://arxiv.org/pdf/2010.11272)|
 |2021|CLINTOX, QSAR datasets|[GitHub](https://github.com/XinhaoLi74/SmilesPE)) |[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01127)|
-|2021|Tox21, BBBP, CLINTOX,, SIDER|[GitHub](https://github.com/cxfjiang/MolBERT) |[Paper](https://onlinelibrary.wiley.com/doi/10.1155/2021/7181815)|
+|2021|Tox21, BBBP, CLINTOX, SIDER|[GitHub](https://github.com/cxfjiang/MolBERT) |[Paper](https://onlinelibrary.wiley.com/doi/10.1155/2021/7181815)|
 |2022|| ||
 |2022|| ||
 |2022|| ||
