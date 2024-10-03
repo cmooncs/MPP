@@ -60,14 +60,14 @@ This project is associated with the survey paper ***"Advancements in Molecular P
 |2020|Lipo, BACE, FreeSolv, BP, HIV, AMES, BBBP, ToxCast|[GitHub](https://github.com/bigchem/transformer-cnn)|[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00423-w)|
 |2020|HIV, BACE, BBBP, Tox21, ClinTox, SIDER|-|[Paper](https://arxiv.org/pdf/1712.02034)|
 |2021|Tox21, HIV, BBBPS, SIDER, CLINTOX| [GitHub](https://github.com/arwhirang/sa-mtl)|[Paper](https://arxiv.org/pdf/2010.11272)|
-|2021|CLINTOX, QSAR datasets|[GitHub](https://github.com/XinhaoLi74/SmilesPE)) |[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01127)|
+|2021|CLINTOX, QSAR datasets|[GitHub](https://github.com/XinhaoLi74/SmilesPE) |[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01127)|
 |2021|Tox21, BBBP, CLINTOX, SIDER|[GitHub](https://github.com/cxfjiang/MolBERT) |[Paper](https://onlinelibrary.wiley.com/doi/10.1155/2021/7181815)|
-|2022|| ||
-|2022|| ||
-|2022|| ||
-|2022|| ||
-|2023|| ||
-|2024|| ||
+|2022|logS, logP, logD|[GitHub](https://github.com/EBjerrum/SMILES-enumeration) |[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8912091/)|
+|2022|Lipo, BACE, ESOL, HIV, FreeSolv|- |[Paper](https://www.sciencedirect.com/science/article/pii/S009813542100377X)|
+|2022|HBV, HepG2|[GitHub](https://github.com/NTU-MedAI/S2DV)|[Paper](https://pubmed.ncbi.nlm.nih.gov/35062019/)|
+|2022|MoleculeNET|- |[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00650-3)|
+|2023|MoleculeNET, Cytotoxicity|[GitHub](https://github.com/PaccMann/chemical_representation_learning_for_toxicity_prediction)|[Paper](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00099g)|
+|2024|ESOL, FreeSolv, Lipo,BBBP, Clintox|-|[Paper](https://www.sciencedirect.com/science/article/pii/S0009250923010278)|
 
 
 ## GNN-based methods
