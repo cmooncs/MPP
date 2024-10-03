@@ -90,8 +90,7 @@ This project is associated with the survey paper ***"Advancements in Molecular P
 |2023|Tox21,ToxCast,BBBP,BACE, ESOL,Lipo,FreeSolv,SIDER|[Github](http://graphadmet.cn/works/IFGN)|[Paper](https://pubmed.ncbi.nlm.nih.gov/36526280/) |
 |2023|BBBP|-|[Paper](https://www.researchgate.net/publication/367343131_Benchmarking_GNNs_for_Blood-Brain_Barrier_Permeability_Prediction)|
 |2023|Log S|-|[Paper](https://pubs.acs.org/doi/10.1021/acsomega.2c06702)|
-| 2024|ESOL,Lipo,FreeSolv,SIDER
-Tox21,ToxCast,BBBP,BACE | [Github](https://github.com/AI-HPC-Research-Team/3D-Mol)| [Paper](https://arxiv.org/abs/2309.17366)|
+|2024|ESOL,Lipo,FreeSolv,SIDER, Tox21,ToxCast,BBBP,BACE | [Github](https://github.com/AI-HPC-Research-Team/3D-Mol)| [Paper](https://arxiv.org/abs/2309.17366)|
 |2024 | ESOL,Lipo,FreeSolv,SIDER, Tox21,ToxCast,BBBP,BACE, HIV,MUV,QM7,QM8,QM9|[Github](https://github.com/ZeXingZ/DIG-Mol)| [Paper](https://arxiv.org/abs/2405.02628)|
 |2024 | HIV,MUV,SIDER,Tox21,Clintox,BBBP,BACE|[Github](https://github.com/Sixseven-Five/AEGNN-M) |[Paper](https://pubmed.ncbi.nlm.nih.gov/38386576/)|
 
