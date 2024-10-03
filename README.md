@@ -73,10 +73,12 @@ This project is associated with the survey paper ***"Advancements in Molecular P
 ## GNN-based methods
 |**Year**| **Dataset**   |**Code/Server**   | **Reference**|
 | -------|------------|--------- |------------| 
-| || || 
-| || || 
-| || || 
-| || || 
+|2019 |QM9, MUTAC,NCI1|-|[Paper](https://arxiv.org/abs/1905.11136)| 
+|2019 |ChemBL|[GitHub](https://github.com/choderalab/gimlet)|[Paper](https://arxiv.org/abs/1909.07903)| 
+|2019 |QM9,COD,CSD|-|[Paper](https://www.nature.com/articles/s41598-019-56773-5)|  
+|2019|MUTAC|-|[Paper](https://arxiv.org/abs/1904.05811)| 
+|2019 |ESOL,LIPO,Tox21|-|[Paper](https://www.researchgate.net/publication/340056095_Property_Prediction_of_Molecules_in_Graph_Convolutional_Neural_Network_Expansion)| 
+|2019|HIV,MUV,BBBP,Tox21,SIDER, QM8, ESOL,LIPO|-|[Paper](https://pubmed.ncbi.nlm.nih.gov/31408336/)| 
 
 ## Multimodality-based methods
 |**Year**| **Dataset** |I/P Modality   |**Code/Server**   | **Reference**|
