@@ -53,8 +53,8 @@ This project is associated with the survey paper ***"Advancements in Molecular P
 
 ## SMILES-based methods
 |**Year**| **Dataset**    |**Code/Server**   |**Reference**|
-| -------|------------| ---------------------- |------|
-| || ||
+| -------|------| ---------------------- |------|
+|2019|BBBP, BACE, Ames, ESOL|[jrwnter/cddd](https://github.com/jrwnter/cddd) |[Paper](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04175j)|
 | || ||
 | || ||
 
