@@ -79,6 +79,21 @@ This project is associated with the survey paper ***"Advancements in Molecular P
 |2019|MUTAC|-|[Paper](https://arxiv.org/abs/1904.05811)| 
 |2019 |ESOL, LIPO, Tox21|-|[Paper](https://www.researchgate.net/publication/340056095_Property_Prediction_of_Molecules_in_Graph_Convolutional_Neural_Network_Expansion)| 
 |2019|HIV, MUV, BBBP, Tox21, SIDER, QM8, ESOL, LIPO|-|[Paper](https://pubmed.ncbi.nlm.nih.gov/31408336/)| 
+|2020|HIV,MUV,BBBP,Tox21, SIDER, QM8,ESOL,LIPO| [GitHub](https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery)|[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0407-y)| 
+|2020|NCI109| [GitHub](https://github.com/JucatL/MxPool)| [Paper](https://arxiv.org/abs/2004.06846)|
+|2020|QM9,ZINC| [GitHub](https://github.com/leichen2018/GNN-Substructure-Counting)|[Paper](https://dl.acm.org/doi/abs/10.5555/3495724.3496595)|
+|2020|BBBP,ADMET| - | [Paper](https://pubmed.ncbi.nlm.nih.gov/32286824/)|
+|2020|MACE,BBBP,Tox21,SIDER, ClinTox|-| [Paper](https://arxiv.org/abs/2005.13607)|
+|2021 |Tox21,Freesolv,Lipo,eSOL|-|[Paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122100271X)  |
+|2022 |PDBbind-v2007,PDBbind-v2013, PDBbind-v2016|[GitHub](https://github.com/Alibaba-DAMO-DrugAI/MGNN)|[Paper](https://pubmed.ncbi.nlm.nih.gov/35696650)  |
+|2022 |BACE,Tox21,QM8,QM7,ESOL,Lipo,FreeSolv,SIDER|[GitHub](https://github.com/uta-smile/CD-MVGNN)|[Paper](https://academic.oup.com/bioinformatics/article/38/7/2003/6517516) |
+|2023|Tox21,ToxCast,BBBP,BACE, ESOL,Lipo,FreeSolv,SIDER|[Github](http://graphadmet.cn/works/IFGN)|[Paper](https://pubmed.ncbi.nlm.nih.gov/36526280/) |
+|2023|BBBP|-|[Paper](https://www.researchgate.net/publication/367343131_Benchmarking_GNNs_for_Blood-Brain_Barrier_Permeability_Prediction)|
+|2023|Log S|-|[Paper](https://pubs.acs.org/doi/10.1021/acsomega.2c06702)|
+| 2024|ESOL,Lipo,FreeSolv,SIDER
+Tox21,ToxCast,BBBP,BACE | [Github](https://github.com/AI-HPC-Research-Team/3D-Mol)| [Paper](https://arxiv.org/abs/2309.17366)|
+|2024 | ESOL,Lipo,FreeSolv,SIDER, Tox21,ToxCast,BBBP,BACE, HIV,MUV,QM7,QM8,QM9|[Github](https://github.com/ZeXingZ/DIG-Mol)| [Paper](https://arxiv.org/abs/2405.02628)|
+|2024 | HIV,MUV,SIDER,Tox21,Clintox,BBBP,BACE|[Github](https://github.com/Sixseven-Five/AEGNN-M) |[Paper](https://pubmed.ncbi.nlm.nih.gov/38386576/)|
 
 ## Multimodality-based methods
 |**Year**| **Dataset** |I/P Modality   |**Code/Server**   | **Reference**|
