@@ -95,9 +95,25 @@ This project is associated with the survey paper ***"Advancements in Molecular P
 |2024 | HIV,MUV,SIDER,Tox21,Clintox,BBBP,BACE|[Github](https://github.com/Sixseven-Five/AEGNN-M) |[Paper](https://pubmed.ncbi.nlm.nih.gov/38386576/)|
 
 ## Multimodality-based methods
-|**Year**| **Dataset** |I/P Modality   |**Code/Server**   | **Reference**|
+|**Year**| **Dataset** |I/P Modality|**Code/Server**| **Reference**|
 | -------|------------|------|------------| ---------------------- |
-| || || |
-| || || |
-| || || |
-
+|2019|ESOL,Lipo,FreeSolv |Graph,Fingerprints|[Github](https://github.com/wxfsd/C-SGEN)|[Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00410)|
+|2019|IGC50|SMILES,Descriptors, Molecular Image|-|[Paper](https://dl.acm.org/doi/10.1007/978-3-030-30639-7_12)|
+|2020|LogP,FDA,BBBP, BACE,Tox21,ToxCas|Graph,SMILE |-|[Paper](https://dl.acm.org/doi/10.1145/3340531.3411981)|
+|2020|hERG|Descriptors,Fingerprints|-|[Paper](https://pubmed.ncbi.nlm.nih.gov/32022860)|
+|2021|ESOL,Lipo,FreeSolv, HIV,BACE,BBBP, Tox21,ToxCast,ClinTox, SIDER|Graph|[Github](https://github.com/chenxiaowei-vincent/XGraphBoost.git)|[Paper](https://pubmed.ncbi.nlm.nih.gov/34009965/)|
+|2021|QM9,PC9|Graph|-|[Paper](https://iopscience.iop.org/article/10.1088/2632-2153/ac3eb3/meta)|
+|2022|BACE,HIV,MUV,Tox21, BBBP,Clintox,SIDER|Graph,MACCS,Pubchem,Pharmacophores|[Github](https://github.com/idrugLab/FP-GNN)|[Paper](https://pubmed.ncbi.nlm.nih.gov/36124766/)|
+|2022|BBBP|Descriptors,MACCS,Molecular Image|-|[Paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.858126/full)|
+|2022|HIV,BACE,Lipo,BBBP,ESOL,QM7,FreeSolv|SMILES,Descriptors|-|[Paper](https://academic.oup.com/bib/article/23/1/bbab367/6366324)|
+|2022|BBBP|Descriptors,Fingerprints,Molecular Graph,SMILES|-|[Paper](https://pubmed.ncbi.nlm.nih.gov/36002937/)|
+|2022|BBBP|Molecular Graph,Descriptors|-|[Paper](https://pubmed.ncbi.nlm.nih.gov/35561199/)|
+|2023|Tox21|Graph,SMILES|[Github](https://github.com/jpliuhaha/jpliuhaha.git)|[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422020735)| 
+|2023|ESOL,FreeSolv,Lipophilicity, ClinTox,BBBP,BACE|Graph,Descriptors|[Github](https://github.com/magdalenawi)|[Paper](https://pubmed.ncbi.nlm.nih.gov/36584603/)|
+|2023|hERG|ECFP-2, PubChem,AtomPairFingerprintCount,Molecule Graph|[Github](https://github.com/zhaoqi106/DMFGAM)|[Paper](https://dl.acm.org/doi/10.1007/978-981-99-4749-2_60)|
+|2023|HIV,BACE,Lipo,Tox21,ESOL,FreeSolv|Descriptors,Molecular Graph|-|[Paper](https://arxiv.org/abs/2312.17495)  |
+|2023|ESOL,Lipo,BACE|ECFP,SMILES,Molecular Graph|-|[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482523009174)   |
+|2023|HIV,BACE,Lipo,BBBP,LogP,Tox21,SIDER|SMILES,Molecular Graph|-|[Paper](https://dl.acm.org/doi/abs/10.1016/j.eswa.2023.121016)  |
+|2023|HIV,BACE,BBBP,Clintox,QM9|SMILES,ECFP,Molecular Graph|-|[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482523013768) |
+|2024|Lipo,BACE,BBBP,FreeSolv,Clintox,ESOL|ECFP,Molecular Graph,Molecular Image|-|[Paper](https://dl.acm.org/doi/10.1016/j.inffus.2023.102092)|
+|2024|Lipo,BACE,BBBP,FreeSolv,Clintox,ESOL|Fingerprints,Molecular Graph|-| [Paper]    |
