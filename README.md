@@ -7,7 +7,7 @@ This project is associated with the [survey paper](https://arxiv.org/pdf/2408.09
 |**Property**| **Dataset**       | **Description** |**Reference**|
 | -------|-------| ----------------------------------------------|-------|
 | Solubility | [ESOL](https://moleculenet.org/datasets-1})| Contains chemical structures along with their corresponding experimentally determined solubility values in water|[Paper](https://academic.oup.com/bib/article/23/1/bbab367/6366324)|
-| Solv. Energy | [FreeSolv](https://moleculenet.org/datasets-1})| provide chemical structures along with experimentally determined solvation free energy values | [Paper](https://onlinelibrary.wiley.com/doi/10.1155/2022/8464452)
+| Solv. Energy | [FreeSolv](https://moleculenet.org/datasets-1})| provides chemical structures along with experimentally determined solvation free energy values | [Paper](https://onlinelibrary.wiley.com/doi/10.1155/2022/8464452)
 | Hydrophobicity | [Lipophilicity](https://moleculenet.org/datasets-1})| depicts the tendency of a molecule to dissolve in lipids or non-polar solvents | [Paper](https://pubmed.ncbi.nlm.nih.gov/36526280)|
 | Affinity | [BACE](https://moleculenet.org/datasets-1})| consists of molecules that are tested for their ability to inhibit the BACE enzyme, with associated experimental measurements of their inhibitory activity | [Paper](https://pubmed.ncbi.nlm.nih.gov/28696688) |
 | Permeabiltiy | [BBBP](https://moleculenet.org/datasets-1})| contains molecular structures of compounds along with their experimentally measured blood-brain barrier permeability values|[Paper](https://pubmed.ncbi.nlm.nih.gov/36002937/)| 
