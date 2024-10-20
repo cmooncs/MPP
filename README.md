@@ -1,6 +1,7 @@
 # MPP
 Repository of resources on  Molecular Property Prediction ***(MPP)***.\
-This project is associated with the survey paper ***"Advancements in Molecular Property Prediction: A Survey of Single and Multimodal Approaches"***
+This project is associated with the survey paper [***"Advancements in Molecular Property Prediction: A Survey of Single and Multimodal Approaches"***](https://arxiv.org/pdf/2408.09461v2)
+
 ## Summary of datasets in MPP 🗂️
 |**Property**| **Dataset**       | **Description** |**Reference**|
 | -------|-------| ----------------------------------------------|-------|
